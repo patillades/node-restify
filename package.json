@@ -32,14 +32,10 @@
         "Ben Doerr",
         "Patrick Mooney"
     ],
-    "name": "restify",
+    "name": "patillades_restify_fork",
     "homepage": "http://mcavage.github.com/node-restify",
     "description": "REST framework",
     "version": "2.8.4",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/mcavage/node-restify.git"
-    },
     "main": "lib/index.js",
     "directories": {
         "lib": "./lib"
@@ -57,7 +53,7 @@
         "csv": "^0.4.0",
         "deep-equal": "^0.2.1",
         "escape-regexp-component": "^1.0.2",
-        "formidable": "^1.0.14",
+        "patillades_formidable_fork": "^1.0.14",
         "http-signature": "^0.10.0",
         "keep-alive-agent": "^0.0.1",
         "lru-cache": "^2.5.0",
